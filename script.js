@@ -148,7 +148,7 @@ const subjectData = {
 
         "short notes":[{title: "physics",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN",notes: "https://drive.google.com/file/d/1OTeqoRyU_-hHCU9b4OeQuhVRR8i0ZLcz/view?usp=drivesdk"},
         {title: "biology",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: "https://drive.google.com/file/d/1NDOpZwyuX_gvfYHVSvCJOyf3J3k9lgOg/view?usp=drivesdk"},
-        {title: "m1",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: "https://drive.google.com/file/d/1NTtHON1F6r_9ApgzZ7h1s8d9muTr0xrM/view?usp=drivesdk"},
+        {title: "m1",video:"https://www.youtube.com/embed/5idNBcKDtvA?si=9VuCYSmsqcY0U96O"  ,notes: "https://drive.google.com/file/d/1NTtHON1F6r_9ApgzZ7h1s8d9muTr0xrM/view?usp=drivesdk"},
         {title: "chemiistry",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: "https://drive.google.com/file/d/17SHnDWPkLM8e2frgbK8ugmYzib00YSNJ/view?usp=drivesdk"},
         {title: "bee",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: "https://drive.google.com/file/d/1OwK5RhbIYFEJOevf-RTe16U62ebaxNEA/view?usp=drivesdk"},
     {title: "m2",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: "https://drive.google.com/file/d/1NP3qzp5A7Kx1SL8ugBtqCXm3AV-Q_Z1z/view?usp=drivesdk"},
